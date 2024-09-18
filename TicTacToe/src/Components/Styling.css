@@ -1,0 +1,36 @@
+body{
+    padding: 30px;
+}
+
+.main{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+
+}
+.overall-box{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+    
+
+}
+.boxx{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.boxx button{
+    width: 100%;
+    height: 100%;
+}
+.first{
+    display: flex;
+}
+.status{
+    margin-top: 80px;
+}
